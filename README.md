@@ -1,2 +1,18 @@
-# git-collaboration-practice
-learning Git&amp;Github
+\# Git \& GitHub Collaboration Practice
+
+
+
+\## Objective
+
+Learn Git \& GitHub from scratch.
+
+
+
+\## Collaborators
+
+\- Arjun Odedra
+
+\- Dhruvil Patel
+
+\- Prink Hapaliya
+
